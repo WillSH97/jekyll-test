@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "test me baby"
-date:   2025-05-02 17:25:25 +1000
-categories: jekyll update
+title:  "second post"
+date:   2024-10-11 17:25:25 +1000
+categories: dunno
 ---
 
 
